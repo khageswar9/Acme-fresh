@@ -1,0 +1,137 @@
+{
+  "Cart":[],
+  "users": [
+    {
+      "id": "123456789",
+      "email": "kalia123@gmail.com",
+      "password": "123456789"
+    },
+    {
+      "id": "kalia1234",
+      "email": "kalia12345@gmail.com",
+      "password": "kalia1234"
+    }
+  ],
+  "product": [
+    {
+      "id":1,
+      "name": "Arugula",
+      "price": 700,
+      "image": "https://boweryfarming.com/wp-content/uploads/2020/03/Arugula-Flex-Film-PDP-5-2022.png",
+      "rating": "4.5",
+      "description": "Velvety with a peppery bite, our Arugula adds a courageous spice to any dish. Try it plain or with olive oil and lemon to experience its flavor in the purest form."
+    },
+    {
+      "id":2,
+      "name": "Arugula",
+      "price": 700,
+      "image": "https://boweryfarming.com/wp-content/uploads/2020/03/Arugula-Flex-Film-PDP-5-2022.png",
+      "rating": "4.5",
+      "description": "Velvety with a peppery bite, our Arugula adds a courageous spice to any dish. Try it plain or with olive oil and lemon to experience its flavor in the purest form."
+    },
+    {
+      "id":3,
+      "name": "Baby Butter",
+      "price": 500,
+      "image": "https://boweryfarming.com/wp-content/uploads/2020/05/Baby-Butter-Flex-Film-PDP-5-2022.png",
+      "rating": "3.5",
+      "description": "With its sweet, buttery flavor and smooth texture, Baby Butter is a versatile green, making it the perfect base for any crisp salad."
+    },
+    {
+      "id":4,
+      "name": "Baby Kale",
+      "price": 700,
+      "image": "https://boweryfarming.com/wp-content/uploads/2020/05/Baby-Kale-Flex-Film-PDP-5-2022.png",
+      "rating": "4.5",
+      "description": "Baby Kale is harvested before it reaches the full maturity of an adult kale plant, so it carries the hearty flavor of its full-grown counterpart while providing a sweeter finish. It’s delicate enough for salads and smoothies, but also sturdy enough to hold up in hot dishes."
+    },
+    {
+      "id":5,
+      "name": "Baby Kale Mix",
+      "price": 1200,
+      "image": "https://boweryfarming.com/wp-content/uploads/2020/05/Baby-Kale-Mix-Flex-Film-PDP-5-2022.png",
+      "rating": "4.5",
+      "description": "Baby Kale Mix cheers up any dish with hearty, sweet, and well-rounded flavor while boasting a range of colors."
+    },
+    {
+      "id":6,
+      "name": "Spring Mix",
+      "price": 300,
+      "image": "https://boweryfarming.com/wp-content/uploads/2020/05/Spring-Mix-Flex-Film-PLP-5-2022.png",
+      "rating": "3.5",
+      "description": "Sweet, zesty and versatile. That’s what you get when red, green, and romaine lettuces meet mustard greens in this classic blend."
+    },
+    {
+      "id":7,
+      "name": "Parsley",
+      "price": 800,
+      "image": "https://boweryfarming.com/wp-content/uploads/2020/05/Parsley-PLP.png",
+      "rating": "4.5",
+      "description": "Parsley is used to top dishes and enrich stews all around the world. The herb’s bright, refreshing flavor balances nicely with heavier dishes, making it a great garnish for meats and pastas."
+    },
+    {
+      "id":8,
+      "name": "Mustard Frills",
+      "price": 200,
+      "image": "https://boweryfarming.com/wp-content/uploads/2021/01/Mustard-Frills_Packshot_300x354px.png",
+      "rating": "3.5",
+      "description": "Our debut small batch green with big-time flavor is back and bringing the heat!"
+    },
+    {
+      "id":9,
+      "name": "Mixed Greens",
+      "price": 400,
+      "image": "https://boweryfarming.com/wp-content/uploads/2021/08/Mixed-Greens-Flex-Film-PDP-5-2022.png",
+      "rating": "2.5",
+      "description": "Subtly sweet, velvety texture, with the perfect amount of crunch—that’s the unmistakeable experience of Mixed Greens."
+    },
+    {
+      "id":10,
+      "name": "Crispy Leaf",
+      "price": 1800,
+      "image": "https://boweryfarming.com/wp-content/uploads/2020/05/Crispy-Leaf-Flex-Film-PLP-5-2022.png",
+      "rating": "3.5",
+      "description": "Invigorate your palate with our crunchiest green yet, Crispy Leaf. Its delightfully crisp center and frilly edges add texture and a refreshing finish to any dish you dream up."
+    },
+    {
+      "id":11,
+      "name": "Cilantro",
+      "price": 900,
+      "image": "https://boweryfarming.com/wp-content/uploads/2020/05/Cilantro-PLP.png",
+      "rating": "1.5",
+      "description": "Also known as coriander, this citrusy, fragrant herb is a staple in many cuisines, often used to brighten flavors and counteract spices in dishes like curries and tacos."
+    },
+    {
+      "id":12,
+      "name": "Berries",
+      "price": 700,
+      "image": "https://boweryfarming.com/wp-content/uploads/2022/03/Strawberry-PLP-revised.png",
+      "rating": "3.5",
+      "description": "Our berries are locally grown, available year-round, and unbelievably delicious. Now we’re not sure which one is better. It’s a problem we’re not complaining about."
+    },
+    {
+      "id":13,
+      "name": "Basil",
+      "price": 900,
+      "image": "https://boweryfarming.com/wp-content/uploads/2020/05/Basil-PLP.png",
+      "rating": "2.5",
+      "description": "Sweet, aromatic and inviting—there is a reason this herb is so popular around the world."
+    },
+    {
+      "id":14,
+      "name": "Spring Mix",
+      "price": 300,
+      "image": "https://boweryfarming.com/wp-content/uploads/2020/05/Spring-Mix-Flex-Film-PLP-5-2022.png",
+      "rating": "3.5",
+      "description": "Sweet, zesty and versatile. That’s what you get when red, green, and romaine lettuces meet mustard greens in this classic blend."
+    },
+    {
+      "id":15,
+      "name": "Parsley",
+      "price": 800,
+      "image": "https://boweryfarming.com/wp-content/uploads/2020/05/Parsley-PLP.png",
+      "rating": "4.5",
+      "description": "Parsley is used to top dishes and enrich stews all around the world. The herb’s bright, refreshing flavor balances nicely with heavier dishes, making it a great garnish for meats and pastas."
+    }
+  ]
+}

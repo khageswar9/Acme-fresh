@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+.Navabr{
+    width: 90vw;
+    margin: auto;
+    height: 20vh;
+    padding:0 20px;
+}
+#logo{
+    height: 50px;
+}
+.cart{
+    width: 10%;
+}
+.flex{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.linkDiv{
+    width: 30%;
+}
+.hoover:hover{
+    border-top: 3px solid rgb(50, 90, 60);
+}

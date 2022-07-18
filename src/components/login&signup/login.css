@@ -1,0 +1,16 @@
+form{
+    height: 400px;
+    width: 30%;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+
+}
+form>input , button{
+    height: 15%;
+}
+button{
+    background-color: rgb(84, 145, 224);
+    border: none;
+}

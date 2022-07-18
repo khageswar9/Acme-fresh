@@ -1,0 +1,16 @@
+.paymentpage{
+    height: 400px;
+    width: 40%;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+}
+.paymentpage > input{
+    height: 10%;
+    border: none;
+    border-bottom: 1px solid rgb(170, 167, 167);
+}
+.paymentpage > input:focus{
+    outline: none;
+}

@@ -1,0 +1,48 @@
+.Home{
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    text-align: left;
+}
+.poster{
+    height: 30vh;
+    width: 100%;
+    background-color: rgb(253,249,186);
+    padding: 10px;
+}
+#head{
+    font-size: 35px;
+    float: left;
+    margin-left: 20%;
+    margin-top: 2%;
+    color: rgb(129, 128, 128);
+}
+.poster2{
+    height: 30vh;
+    width: 100%;
+    margin-top: 20px;
+    background-color: rgb(156, 155, 154);
+    padding: 10px;
+    font-size: 45px;
+}
+#marg{
+    margin-left: 20%;
+}
+#center{
+    margin: auto;
+}
+.imgposter , .videodiv{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+.secondimg{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    margin-top: 20px;
+}
+.secondimg > div{
+    margin: auto;
+}
